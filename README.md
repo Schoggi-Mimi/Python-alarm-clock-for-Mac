@@ -1,2 +1,11 @@
-# Python-alarm-clock-for-Mac
-Simple Python script for a command line alarm clock that plays a random Text when it goes off.
+## Alarm Clock for Mac with GUI
+
+With the popular GUI library for rendering graphics on a display window and extracting the current time from the computer from the DateTime library. This alarm clock was born/build.
+
+# Usage
+
+With Python 3 installed, simply type python3 alarm.py to run the script.
+
+# Edit
+
+To change the spoken text. Change the value in line 54,55,56.
